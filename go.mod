@@ -1,4 +1,4 @@
-module .
+module github.com/micro/config-srv
 
 go 1.12
 
