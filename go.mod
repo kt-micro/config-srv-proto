@@ -1,4 +1,4 @@
-module github.com/micro/config-srv
+module github.com/kt-micro/config-srv-proto
 
 go 1.12
 
