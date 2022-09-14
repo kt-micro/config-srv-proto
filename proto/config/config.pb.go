@@ -30,7 +30,7 @@ package go_micro_srv_config_config
 import proto "github.com/golang/protobuf/proto"
 import fmt "fmt"
 import math "math"
-import go_micro_os_config "github.com/micro/go-os/config/proto"
+import go_micro_os_config "github.com/kt-micro/go-os-proto/config/proto"
 
 // Reference imports to suppress errors if they are not otherwise used.
 var _ = proto.Marshal
