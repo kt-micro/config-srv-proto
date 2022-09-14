@@ -6,7 +6,7 @@ package go_micro_srv_config_config
 import (
 	fmt "fmt"
 	proto "github.com/golang/protobuf/proto"
-	_ "github.com/micro/go-os/config/proto"
+	_ "github.com/kt-micro/go-os-proto/config/proto"
 	math "math"
 )
 
